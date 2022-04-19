@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=BenchNine:wght@300&family=Pragati+Narrow&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=BenchNine:wght@300&family=Pragati+Narrow&display=swap");
+
+.app-main {
+  font-family: "Pragati Narrow", sans-serif;
+}
+
+.main-window {
+  background-size: cover;
+  background: #212121;
+  height: 100vh;
+  color: #b3b3b3;
+}
+
+.tracklist-header {
+  padding-top: 20px;
+  color: white;
+  font-family: "BenchNine", sans-serif;
+  font-family: "Pragati Narrow", sans-serif;
+}
+
+.track-modal {
+  font-family: "Pragati Narrow", sans-serif;
+}
+
+.track-modal-background {
+  height: 100%;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.3);
+  background-repeat: no-repeat;
+  backdrop-filter: blur(6px);
+}
+
+.metalabel {
+  padding: 5px 5px 5px 5px;
+}
+
+.track-modal-info {
+}
+
+.track-modal-header {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(6px);
+}
+.track-modal-footer {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(6px);
+}
+
+.main-header {
+  height: 33px;
+  background-color: #121212;
+  color: #b3b3b3;
+}
+
+.chakra-slide {
+  background-color: #99b898;
+  color: #b3b3b3;
+}
